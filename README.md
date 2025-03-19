@@ -27,7 +27,7 @@ These files were used for training and testing. If the dataset is too large, dow
 To run the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vidushi9950/Fake-News-Detection/tree/main
+   git clone https://github.com/Vidushi9950/Fake-News-Detection
    cd fake-news-detection
    ```
 2. Install dependencies:
